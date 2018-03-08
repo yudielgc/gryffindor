@@ -1,5 +1,8 @@
 ### Eclipse template
 
+.idea/
+.DS_Store
+
 .metadata
 bin/
 tmp/
